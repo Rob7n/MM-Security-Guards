@@ -3,6 +3,8 @@ A script that spawns security guards at the Malibu Mansion in FiveM.
 
 Originally created by https://github.com/TayMcKenzieNZ, guard placements by Rob1n.
 
+Showcase Video: https://streamable.com/v5k6sj
+
 ![1](https://user-images.githubusercontent.com/97352680/148652349-f0d189d7-ddf0-4e17-bd43-bb8f426e3128.PNG)
 ![2](https://user-images.githubusercontent.com/97352680/148652350-6cf989c8-9ee0-4454-8f79-f5a60978941c.PNG)
 ![3](https://user-images.githubusercontent.com/97352680/148652351-771d5152-3e65-41ad-865c-e13a9fe371c2.PNG)
