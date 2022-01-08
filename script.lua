@@ -29,9 +29,9 @@ Citizen.CreateThread(function()
 
 						SetModelAsNoLongerNeeded(model)
 
-						FreezeEntityPosition(npc, true)
-						SetEntityInvincible(npc, false)
-						SetBlockingOfNonTemporaryEvents(npc, true)
+						FreezeEntityPosition(npc, true) 	--Set to true to freeze peds
+						SetEntityInvincible(npc, false) 	--Set to true to make ped immortal
+						SetBlockingOfNonTemporaryEvents(npc, true) 	--Set to false to let npc react to environment
 
 						if pedGroup.scenario then
 							TaskStartScenarioInPlace(npc, pedGroup.scenario, 0, true)
