@@ -1,6 +1,11 @@
 # Malibu Mansion Security Guards
 A script that spawns security guards at the Malibu Mansion in FiveM.
 
+Installation: 
+1. Download the resource
+2. Put MM-Security-Guards in your resources folder
+3. Add ensure MM-Security-Guards to your server.cfg
+
 Originally created by https://github.com/TayMcKenzieNZ, guard placements by Rob1n.
 
 Showcase Video: https://streamable.com/v5k6sj
