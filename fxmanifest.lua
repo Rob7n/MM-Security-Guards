@@ -3,7 +3,7 @@ games { 'gta5' }
 
 author 'Rob1n'
 description 'Script that spawns security guards at the Malibu Mansion. Originally created by TayMcKenzieNZ.'
-version '1.0'
+version '1.0.1'
 
 client_scripts {
 
